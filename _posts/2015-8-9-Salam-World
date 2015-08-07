@@ -4,6 +4,8 @@ title: "Salam World"
 description: "Présentation."
 category: articles
 tags: [blog, latex, python]
+image:
+  feature: soft-trees.jpg
 ---
 
 Cet espace sera une sorte d'aide-mémoire pour tous mes éxperimentations plus ou moins _geek_ , mes découvertes ainsi que des projets perso.  
