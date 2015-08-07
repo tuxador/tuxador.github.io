@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Tuxador |l'espace personnel du  Dr.Yahyaoui"
+title: "Dr.Yahyaoui | Blog"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: soft-trees.jpg
