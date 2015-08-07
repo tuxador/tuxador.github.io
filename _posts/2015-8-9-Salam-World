@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Salam World"
+description: "Présentation."
+category: articles
+tags: [blog, latex, python]
+---
+
 Cet espace sera une sorte d'aide-mémoire pour tous mes éxperimentations plus ou moins _geek_ , mes découvertes ainsi que des projets perso.  
 Je m'intéresse actuellement à deux aspects complémentaires liées à mon activité médicale:  
 1- Créer une application pour la gestion numérique des dossiers médicaux, facilitant le travail collaboratif et permettant la pérsistance des données.
