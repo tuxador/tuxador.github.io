@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: À propos de django
-description: "Prélude aux billets techniques concernant django, j'explique ce qui m'a motivé à opter pour **django** ."
+description: "Prélude aux billets techniques concernant django, j'explique ce qui m'a motivé à opter pour django."
 categories: articles
 date: 2015-08-09
 image: 
