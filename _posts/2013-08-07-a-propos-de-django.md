@@ -16,7 +16,7 @@ Je suis en ce moment en plein apprentissage de développement du [framework djan
 Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
 It’s free and open source.
 
-Aprés un mois de "théorie" notamment  une lecture intensive de documentation [officielle](https://docs.djangoproject.com/fr/1.8/), chez [openclassroom](http://openclassrooms.com/courses/developpez-votre-site-web-avec-le-framework-django/les-formulaires-6) et [chez les filles](https://http://tutorial.djangogirls.org/fr/) m'ont permis de démarrer mes ~~gribouillages~~ éxperimentations.
+Aprés un mois de "théorie" notamment  une lecture intensive de documentation [officielle](https://docs.djangoproject.com/fr/1.8/), chez [openclassroom](http://openclassrooms.com/courses/developpez-votre-site-web-avec-le-framework-django/les-formulaires-6) et [chez les filles](https://http://tutorial.djangogirls.org/fr/) m'ont permis de démarrer mes ~~gribouillages~~  experimentations.
 
 ## Pourquoi pas un CMS
 
