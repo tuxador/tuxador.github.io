@@ -43,7 +43,8 @@ Puis ce fut au tour du service IT de l'hopital, d'abord de l'enthousiasme,un bri
 + Tout cela m'a donné goût à la recherche, j'ai fait quelques tuto php, css(bootstrap) et j'avoue ne pas trop aimer la façon de faire à la php, allez savoir pourquoi.
 Le fait est que je suis de nature *chaotic good*, développer en php ne m'aide pas vraiment à structurer mes pensées...
 
-### Parceque j'aime bien python: Dans ma "quête" numérique, et devant cette frustration du manque de connaissances *profondes* en info, j'ai pris la décision d'apprendre un langage informatique, autre que php s'il vous plaît!
+### Parceque j'aime bien python: 
+Dans ma "quête" numérique, et devant cette frustration du manque de connaissances *profondes* en info, j'ai pris la décision d'apprendre un langage informatique, autre que php s'il vous plaît!
 Les deux concurrents sont naturellement [Ruby](www.ruby.org) et (Python)[https://python.org]
 J'ai choisi ce dernier pour differentes raisons, notamment 
   - la possibilité d'intégration d'outils scientifiques avec le framework django,
