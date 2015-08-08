@@ -32,11 +32,12 @@ Mon outil magique était l'extension [**Fabrik**](https://www.frabrikar.com):
   
 Ce fut une trés belle experience pour moi, quasiment deux mois de nuits blanches!
 Seulement voilà, l'ensemble bien que fonctionnel et assez agréable à utiliser, restait "magique" dans le sens où je ne comprenais pas, *exactement*, comment ça fonctionnait.
-Et ce n'était pas juste une question d'auto-satisfaction, plutôt le contraire:   
+Et ce n'était pas juste une question d'auto-satisfaction, plutôt le contraire:
   - Comment débogguer ce ~~merdier~~ truc quand on ne sait même pas les rudiments du PHP, sur lequel l'ensemble est bâti? 
   - Comment personnaliser mes formulaires enregistrés ? la lecture attentive du wiki dompdf m'a donné une piste, l'explication est laconique, ou me parait telle vu mon ignorance du domaine.
   - Comment gérer les mises à jour sans casser l'ensemble? cette mésaventure m'est arrivée à chaque MAJ joomal...
   - et quid de la base de données? MySQL est t-il  le bon choix? des amis du service technique m'ont suggéré que non.
+  
 Toujours est t-il que je n'étais pas peu fier de mon boulot, et j'ai presenté le travail d'abord aux collègues *toubibs*, leur réaction était ...mitigée.
 Puis ce fut au tour du service IT de l'hopital, d'abord de l'enthousiasme,un brin de méfiance (bah oui un toubib ça ne fait pas de *web dev*), ensuite de l'agacement, forcer l'équipe à s'initier au déploiment maiheu!!
 
