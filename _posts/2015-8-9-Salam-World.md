@@ -1,7 +1,6 @@
 ---
 layout: post
-titl
- "Salam World"
+title: "Salam World"
 description: "Presentation."
 category: articles
 tags: [blog, latex, python]
