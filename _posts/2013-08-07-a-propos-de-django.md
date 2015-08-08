@@ -1,4 +1,14 @@
-## Pourquoi Django
+---
+layout: post-light-feature
+title: À propos de django
+description: "Prélude aux billets techniques concernant django, j'explique ce qui m'a motivé à opter pour **django**."
+categories: articles
+date: 2015-08-09
+image: 
+        feature: soft-trees.jpg
+---
+
+# Pourquoi Django
 
 Je suis en ce moment en plein apprentissage de développement du [framework django](www.djangoproject.com), le framework pour "perfectionnistes pressés".
 
