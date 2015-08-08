@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Salam World"
+titl
+ "Salam World"
 description: "Presentation."
 category: articles
 tags: [blog, latex, python]
@@ -9,13 +10,15 @@ image:
 ---
 
 Cet espace sera une sorte d'aide-mémoire pour tous mes éxperimentations plus ou moins _geek_ , mes découvertes ainsi que des projets perso.  
-Je m'intéresse actuellement à deux aspects complémentaires liées à mon activité médicale:  
+Je m'intéresse actuellement à deux aspects complémentaires liées à mon activité médicale: 
+ 
 1- Créer une application pour la gestion numérique des dossiers médicaux, facilitant le travail collaboratif et permettant la pérsistance des données.
 2- Exploiter cette base de données et permettre ainsi de produire des papiers intéressants: rapports d'activité, posters, études prospectives...  
 
 À ce jour j'ai réalisé une application web grâce au framework [Joomla](httpss://www.joomla.org), hélas j'ai énormément de mal à la déployer au service de l'hôpital (tournant sous windows server).
 Le problème n'est pas tant technique mais *humain*.
 Le workflow initial était: 
+
 + formulaires web (dossier patient)
 + base de donnée mysql 
 + export CSV 
