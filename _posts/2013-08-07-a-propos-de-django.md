@@ -20,7 +20,7 @@ Aprés un mois de "théorie" notamment  une lecture intensive de documentation [
 
 ## Pourquoi pas un CMS
 
-+ Parceque j'ai déjà développé une application avec [Joomla](https://joomla.org), l'an dernier.
+### Parceque j'ai déjà développé une application avec [Joomla](https://joomla.org), l'an dernier.
 À l'époque je n'avais quasiment aucune expérience de *web developpement* , aucun bagage théorique.
 Un CMS (j'ai testé wordpress puis joomla) est un fantastique outils pour des gens comme moi, sans connaissances techniques, pour pouvoir bénéficier du travail d'une communauté trés active et déployer rapidement une appli.
 J'étais émerveillé par des extensions **WYIWYG**, fonctionnant *out of the box*, et au design alléchant, grâce à [bootstrap](https://getbootstrap.com)
@@ -43,7 +43,7 @@ Puis ce fut au tour du service IT de l'hopital, d'abord de l'enthousiasme,un bri
 + Tout cela m'a donné goût à la recherche, j'ai fait quelques tuto php, css(bootstrap) et j'avoue ne pas trop aimer la façon de faire à la php, allez savoir pourquoi.
 Le fait est que je suis de nature *chaotic good*, développer en php ne m'aide pas vraiment à structurer mes pensées...
 
-+ Parceque j'aime bien python: Dans ma "quête" numérique, et devant cette frustration du manque de connaissances *profondes* en info, j'ai pris la décision d'apprendre un langage informatique, autre que php s'il vous plaît!
+### Parceque j'aime bien python: Dans ma "quête" numérique, et devant cette frustration du manque de connaissances *profondes* en info, j'ai pris la décision d'apprendre un langage informatique, autre que php s'il vous plaît!
 Les deux concurrents sont naturellement [Ruby](www.ruby.org) et (Python)[https://python.org]
 J'ai choisi ce dernier pour differentes raisons, notamment 
   - la possibilité d'intégration d'outils scientifiques avec le framework django,
