@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Updates"
+description: "updates."
+category: articles
+tags: [blog, vim, python]
+image:
+  feature: soft-trees.jpg
+---
 ## Retour des vacances
 Cet été a connu mes toutes premières vacances depuis...toujours! j'ai aussi assisté à la naissance de ma petite **mini moi ** \\~o~/
 J'en ai profité pour étudier un peu Python et django également!
