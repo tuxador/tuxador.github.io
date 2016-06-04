@@ -1,3 +1,12 @@
+---
+layout: post-light-feature
+title: Dites *hello* à kardio
+description: "Prélude aux billets techniques concernant django, j'explique ce qui m'a motivé à opter pour django."
+categories: articles
+date: 2016-06-03
+image: 
+        feature: soft-trees.jpg
+---
 # Dites *hello* à kardio
 
 Par la grâce du Bon Dieu je suis fier d'annoncer la sortie de ma première version de [kardio](https://bitbucket.org/kaddourkardio/kardio) et sa disponibilité en téléchargement libre et sous licence `GPL2`.
@@ -33,5 +42,5 @@ Bosser avec amir est très stimulant intellectuellement et me pousse à donner l
 
 ## Epilogue
 
-Donc aprés un "silence " de plusieurs mois je compte revenir à un rythme plus regulier de blogging.
+Donc aprés un "silence " de plusieurs mois je compte revenir à un rythme plus regulier de blogging, et c'est comme par hasard que ça tombe le jour de mon  anniversaire!
 Je vais enrichir ce blog avec des billets plus techniques, et pourquoi pas des billets médicaux (oops).
